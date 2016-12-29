@@ -1,40 +1,40 @@
-# AWS ¼­ºñ½º Á¶»ç
+# AWS ì„œë¹„ìŠ¤ ì¡°ì‚¬
 
 
-È¨ÆäÀÌÁö: https://aws.amazon.com	
-Á¦Ç°¸®½ºÆ®: https://github.com/dracow80/sg_tea_meeting/blob/master/about%20aws/aws_list.png	
+í™ˆíŽ˜ì´ì§€: https://aws.amazon.com	
+ì œí’ˆë¦¬ìŠ¤íŠ¸: https://github.com/dracow80/sg_tea_meeting/blob/master/about%20aws/aws_list.png	
 
-
+![test](aws_list.png)
 ---------------
-### µ¥ÀÌÅÍº£ÀÌ½º
+### ë°ì´í„°ë² ì´ìŠ¤
 
 - Amazon RDS: https://aws.amazon.com/ko/rds/
-	- °ü°èÇü µ¥ÀÌÅÍº£ÀÌ½º
-	-  Amazon Aurora, Oracle, Microsoft SQL Server, PostgreSQL, MySQL, MariaDB ¼±ÅÃÇÏ¿© »ç¿ë °¡´É
+	- ê´€ê³„í˜• ë°ì´í„°ë² ì´ìŠ¤
+	-  Amazon Aurora, Oracle, Microsoft SQL Server, PostgreSQL, MySQL, MariaDB ì„ íƒí•˜ì—¬ ì‚¬ìš© ê°€ëŠ¥
 - Amazon Aurora: https://aws.amazon.com/ko/rds/aurora/
-	- °ü°èÇü µ¥ÀÌÅÍº£ÀÌ½º
-	- MySQL È£È¯
+	- ê´€ê³„í˜• ë°ì´í„°ë² ì´ìŠ¤
+	- MySQL í˜¸í™˜
 - Amazon DynamoDB: https://aws.amazon.com/ko/dynamodb/
-	- NoSQL µ¥ÀÌÅÍº£ÀÌ½º
-	- ¹®¼­Çü, Å° Çü ÀÚ·áÇü
-	- ¸®Á¯°£ ½Ç½Ã°£ µ¿±âÈ­ Á¦°ø: https://github.com/awslabs/dynamodb-cross-region-library
+	- NoSQL ë°ì´í„°ë² ì´ìŠ¤
+	- ë¬¸ì„œí˜•, í‚¤ í˜• ìžë£Œí˜•
+	- ë¦¬ì ¼ê°„ ì‹¤ì‹œê°„ ë™ê¸°í™” ì œê³µ: https://github.com/awslabs/dynamodb-cross-region-library
 - Amazon ElastiCache: https://aws.amazon.com/ko/elasticache/
-	- ÀÎ ¸Þ¸ð¸® Ä³½Ã
-	- Redis, Memcached Áö¿ø
+	- ì¸ ë©”ëª¨ë¦¬ ìºì‹œ
+	- Redis, Memcached ì§€ì›
 - Amazon Redshift: https://aws.amazon.com/ko/redshift/
-	- µ¥ÀÌÅÍ ¿þ¾îÇÏ¿ì½º
-	- ºòµ¥ÀÌÅÍ ºÐ¼® °ü·Ã ¼­ºñ½º
+	- ë°ì´í„° ì›¨ì–´í•˜ìš°ìŠ¤
+	- ë¹…ë°ì´í„° ë¶„ì„ ê´€ë ¨ ì„œë¹„ìŠ¤
  - AWS DMS: https://aws.amazon.com/ko/dms/
  	- Database Migration Service
 
 
 
 ---------------
-### °³¹ßÀÚ µµ±¸(Áö¿ø SDK)
-ÆäÀÌÁö: https://aws.amazon.com/ko/tools/	
->**Áö¿øµµ±¸**
+### ê°œë°œìž ë„êµ¬(ì§€ì› SDK)
+íŽ˜ì´ì§€: https://aws.amazon.com/ko/tools/	
+>**ì§€ì›ë„êµ¬**
 >- Android
->- ºê¶ó¿ìÀú
+>- ë¸Œë¼ìš°ì €
 >- iOS
 >- Java
 >- .NET
